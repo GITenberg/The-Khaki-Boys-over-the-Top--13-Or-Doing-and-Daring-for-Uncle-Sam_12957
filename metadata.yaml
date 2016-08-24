@@ -1,0 +1,23 @@
+_repo: The-Khaki-Boys-over-the-Top--13-Or-Doing-and-Daring-for-Uncle-Sam_12957
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bates, Gordon
+    gutenberg_agent_id: '4742'
+    url: http://www.gutenberg.org/2009/agents/4742
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Khaki Boys over the Top; Or, Doing and Daring for Uncle Sam
+url: http://www.gutenberg.org/ebooks/12957
